@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "acd5d8f3007a5cef",
+    "type": "split",
+    "children": [
+      {
+        "id": "e92390a28ccb6e45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05f1575d8a645bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "650e1b4ae750d98a",
+    "type": "split",
+    "children": [
+      {
+        "id": "955778ea861e122d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150c43353fc0efcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5d7892f4cc554e11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "563a6349bf311543",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0859b1c39b2afef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d39ca3cf8789e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b33ef2028889f900",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "颗粒度对齐.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "颗粒度对齐 的反向链接列表"
+            }
+          },
+          {
+            "id": "74eb15de6908ce3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "颗粒度对齐.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "颗粒度对齐 的出链列表"
+            }
+          },
+          {
+            "id": "1925925a905328ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8f89adcc3ee3c3f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b6ea21d13fbf917f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "颗粒度对齐.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "颗粒度对齐 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "150c43353fc0efcb",
+  "lastOpenFiles": [
+    "docs/用户操作逻辑整体框架.md",
+    "docs/人群分层逻辑框架.md",
+    "docs/颗粒度对齐.md",
+    "frontend/src/views/Monitor.vue",
+    "frontend/src/views/Home.vue",
+    "frontend/src/router/index.js",
+    "frontend/src/App.vue",
+    "frontend/src/main.js",
+    "frontend/vite.config.js",
+    "frontend/index.html",
+    "frontend/package.json",
+    "frontend/src/views",
+    "frontend/src/stores",
+    "backend/venv/lib/python3.13/site-packages/starlette-1.2.1.dist-info/licenses/LICENSE.md",
+    "backend/venv/lib/python3.13/site-packages/idna-3.18.dist-info/licenses/LICENSE.md",
+    "backend/venv/lib/python3.13/site-packages/pip/_vendor/idna/LICENSE.md",
+    "backend/venv/lib/python3.13/site-packages/pip-26.0.1.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "docs/superpowers/specs/2026-06-09-autowjx-design.md",
+    "README.md",
+    "用户操作逻辑整体框架.md",
+    "人群分层逻辑框架.md",
+    "颗粒度对齐.md"
+  ]
+}

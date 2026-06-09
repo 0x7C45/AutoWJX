@@ -10,6 +10,7 @@ class Settings(BaseSettings):
     """Application settings loaded from environment variables."""
 
     # Application
+    ENVIRONMENT: str = "development"
     DEBUG: bool = False
     LOG_LEVEL: str = "INFO"
     # WARNING: Change SECRET_KEY in production! This default is for development only.
@@ -28,6 +29,7 @@ class Settings(BaseSettings):
     # LLM API Keys
     CLAUDE_API_KEY: str
     OPENAI_API_KEY: str = ""
+    DEFAULT_LLM_PROVIDER: str = "claude"
 
     # Questionnaire Service
     WJX_API_KEY: str = ""

@@ -34,6 +34,7 @@ ENV/
 # IDEs
 .vscode/
 .idea/
+.obsidian/
 *.swp
 *.swo
 *~
@@ -73,4 +74,4 @@ frontend/.cache/
 # Project specific
 data/
 results/
-docs/
+docs/*

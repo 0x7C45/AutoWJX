@@ -12,7 +12,8 @@ class Settings(BaseSettings):
     # Application
     DEBUG: bool = False
     LOG_LEVEL: str = "INFO"
-    SECRET_KEY: str
+    # WARNING: Change SECRET_KEY in production! This default is for development only.
+    SECRET_KEY: str = "dev-secret-key-change-in-production"
 
     # Database
     DATABASE_URL: str

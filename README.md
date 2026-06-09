@@ -137,7 +137,11 @@ pytest --cov=app --cov-report=html
 
 ## Deployment
 
-See [docs/deployment.md](docs/deployment.md) for production deployment guide.
+For production deployment, ensure you:
+- Set strong values for `SECRET_KEY` and database credentials
+- Use Docker service names (e.g., `postgres`, `redis`) in connection strings
+- Configure appropriate `ALLOWED_ORIGINS` for your domain
+- Set `ENVIRONMENT=production` and adjust `LOG_LEVEL` as needed
 
 ## License
 
